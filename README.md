@@ -1,8 +1,5 @@
-## end to end ml project
-## Created enviornment
-```
-conda create -p venv python==3.8
+## First end to end ml Regression project
 
-```
-##install all libraries
-pip install -r requirements.txt
+Created virtual enviornment
+
+This is my first ever end to end Machine learning project which predicts the price of the diamonds.
