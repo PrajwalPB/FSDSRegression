@@ -1,0 +1,7 @@
+[ 2023-04-21 13:19:55,511 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-04-21 13:19:55,518 ] 224 werkzeug - INFO -  * Debugger PIN: 113-740-430
+[ 2023-04-21 13:19:57,296 ] 224 werkzeug - INFO - 127.0.0.1 - - [21/Apr/2023 13:19:57] "GET / HTTP/1.1" 200 -
+[ 2023-04-21 13:20:03,468 ] 224 werkzeug - INFO - 127.0.0.1 - - [21/Apr/2023 13:20:03] "GET /predict HTTP/1.1" 200 -
+[ 2023-04-21 13:20:19,639 ] 76 root - INFO - Dataframe Gathered
+[ 2023-04-21 13:20:19,699 ] 224 werkzeug - INFO - 127.0.0.1 - - [21/Apr/2023 13:20:19] "POST /predict HTTP/1.1" 200 -
+[ 2023-04-21 13:21:10,550 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Prajwal\\Desktop\\houseprice\\app.py', reloading
